@@ -1,8 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0E1128,50:1E90FF,100:5C2D91\&height=230\&section=header\&text=SeungMin's%20GitHub\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:E3F2FD,50:90CAF9,100\:D1C4E9\&height=230\&section=header\&text=SeungMin's%20GitHub\&fontSize=48\&fontColor=20232A\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1200\&color=1E90FF\&center=true\&vCenter=true\&width=650\&lines=C%2B%2B+%2F+DirectX+11;Game+Client+Development;UI+System+%2F+Rendering+%2F+Gameplay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1200\&color=1976D2\&center=true\&vCenter=true\&width=850\&lines=I+want+to+become+a+Game+Client+Developer.;C%2B%2B+%2F+DirectX+11+based+Rendering%2C+UI%2C+Input%2C+Collision+development.)](https://git.io/typing-svg)
+
+<br/>
+
+<h3>
+  유저가 게임 속 세계를 자연스럽게 탐험하고,<br/>
+  상호작용과 반응을 체감할 수 있는 클라이언트 구현에 관심이 있습니다.
+</h3>
 
 <br/>
 
@@ -53,15 +60,22 @@
 <br/>
 <br/>
 
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin383&layout=compact&theme=buefy&hide_border=true" height="180"/>
+
+<br/>
+<br/>
+
 ---
 
 ## 📚 Currently Studying
 
-<img src="https://img.shields.io/badge/Algorithm-2C3E50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structure-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Game%20Server-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network-00A98F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20System-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithm-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structure-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Server-42A5F5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network-26A69A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20System-7E57C2?style=for-the-badge"/>
 
 <br/>
 <br/>
@@ -70,17 +84,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=seungmin383&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin383&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=seungmin383&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=seungmin383&theme=buefy&hide_border=true" height="180"/>
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=seungmin383&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:5C2D91,50:1E90FF,100:0E1128\&height=120\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:D1C4E9,50:90CAF9,100\:E3F2FD\&height=120\&section=footer)
 
 </div>
