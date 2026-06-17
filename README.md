@@ -1,15 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:E3F2FD,50:90CAF9,100\:D1C4E9\&height=230\&section=header\&text=SeungMin's%20GitHub\&fontSize=48\&fontColor=20232A\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0E1128,50:1E90FF,100:5C2D91\&height=230\&section=header\&text=SeungMin's%20GitHub\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1200\&color=1976D2\&center=true\&vCenter=true\&width=850\&lines=I+want+to+become+a+Game+Client+Developer.;C%2B%2B+%2F+DirectX+11+based+Rendering%2C+UI%2C+Input%2C+Collision+development.)](https://git.io/typing-svg)
-
-<br/>
-
-<h3>
-  유저가 게임 속 세계를 자연스럽게 탐험하고,<br/>
-  상호작용과 반응을 체감할 수 있는 클라이언트 구현에 관심이 있습니다.
-</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&pause=1400&color=1E90FF&center=true&vCenter=true&width=900&height=80&lines=%EC%9C%A0%EC%A0%80%EA%B0%80+%EA%B2%8C%EC%9E%84+%EC%86%8D+%EC%84%B8%EA%B3%84%EB%A5%BC+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C+%ED%83%90%ED%97%98%ED%95%98%EA%B3%A0%2C;%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EA%B3%BC+%EB%B0%98%EC%9D%91%EC%9D%84+%EC%B2%B4%EA%B0%90%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8A%94+%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EA%B5%AC%ED%98%84%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -41,6 +36,11 @@
 <br/>
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin383&layout=compact&theme=buefy&hide_border=true" height="180"/>
+
+<br/>
+<br/>
+
 ### Graphics / Engine
 
 <img src="https://img.shields.io/badge/DirectX%2011-107C10?style=for-the-badge"/>
@@ -60,22 +60,15 @@
 <br/>
 <br/>
 
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin383&layout=compact&theme=buefy&hide_border=true" height="180"/>
-
-<br/>
-<br/>
-
 ---
 
 ## 📚 Currently Studying
 
-<img src="https://img.shields.io/badge/Algorithm-455A64?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structure-546E7A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Game%20Server-42A5F5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network-26A69A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20System-7E57C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithm-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structure-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Server-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20System-6C5CE7?style=for-the-badge"/>
 
 <br/>
 <br/>
@@ -84,12 +77,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=seungmin383&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="180"/>
-<img src="https://streak-stats.demolab.com?user=seungmin383&theme=buefy&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=seungmin383&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=seungmin383&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:D1C4E9,50:90CAF9,100\:E3F2FD\&height=120\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:5C2D91,50:1E90FF,100:0E1128\&height=120\&section=footer)
 
 </div>
