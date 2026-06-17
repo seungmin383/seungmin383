@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0E1128,50:1E90FF,100:5C2D91\&height=230\&section=header\&text=SeungMin's%20GitHub\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&pause=1000&duration=3000&color=1E90FF&center=true&vCenter=true&width=1000&height=100&multiline=true&repeat=false&lines=CREATOR+%3A+%EC%B0%BD%EC%A1%B0%5B%EC%B0%BD%EC%95%88%2F%EC%B0%BD%EC%9E%91%5D%EC%9E%90;%EC%9C%A0%EC%A0%80%EC%97%90%EA%B2%8C+%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94+%EC%84%B8%EA%B3%84%EB%A5%BC+%EC%97%AC%ED%96%89%ED%95%98%EB%8A%94+%EA%B2%BD%ED%97%98%EC%9D%84+%EC%A3%BC%EB%8A%94+%EA%B2%8C%EC%9E%84%EC%9D%84+%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&duration=3000&color=1E90FF&center=true&vCenter=true&width=1000&height=110&multiline=true&repeat=false&lines=CREATOR+%3A+%EC%B0%BD%EC%A1%B0+%C2%B7+%EC%B0%BD%EC%95%88+%C2%B7+%EC%B0%BD%EC%9E%91%EC%9E%90;%EC%9C%A0%EC%A0%80%EC%97%90%EA%B2%8C+%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94+%EC%84%B8%EA%B3%84%EB%A5%BC+%EC%97%AC%ED%96%89%ED%95%98%EB%8A%94+%EA%B2%BD%ED%97%98%EC%9D%84+%EC%A3%BC%EB%8A%94+%EA%B2%8C%EC%9E%84%EC%9D%84+%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
 </a>
 
 <br/>
