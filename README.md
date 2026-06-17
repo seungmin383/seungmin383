@@ -26,18 +26,20 @@
 
 ## 🛠 Tech Stack
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin383&layout=compact&theme=buefy&hide_border=true" height="145"/>
+
+<div align="left">
+
 ### Language
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin383&layout=compact&theme=buefy&hide_border=true" height="130"/>
-</p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge"/>
 
-<br/>
+</div>
+
+<br clear="right"/>
 
 ### Graphics / Engine & Tools
 
@@ -52,9 +54,9 @@
 </p>
 
 <br/>
-<br/>
 
 ---
+
 
 
 ## 📚 Currently Studying
