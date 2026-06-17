@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0E1128,50:1E90FF,100:5C2D91\&height=230\&section=header\&text=SeungMin's%20GitHub\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&pause=1000&duration=3500&color=1E90FF&center=true&vCenter=true&width=900&height=95&multiline=true&repeat=false&lines=%EC%9C%A0%EC%A0%80%EA%B0%80+%EA%B2%8C%EC%9E%84+%EC%86%8D+%EC%84%B8%EA%B3%84%EB%A5%BC+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C+%ED%83%90%ED%97%98%ED%95%98%EA%B3%A0%2C;%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EA%B3%BC+%EB%B0%98%EC%9D%91%EC%9D%84+%EC%B2%B4%EA%B0%90%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8A%94+%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EA%B5%AC%ED%98%84%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=22&pause=1000&duration=3000&color=1E90FF&center=true&vCenter=true&width=900&height=120&multiline=true&repeat=false&lines=Creator;%EC%9C%A0%EC%A0%80%EC%97%90%EA%B2%8C+%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94+%EC%84%B8%EA%B3%84%EB%A5%BC+%EC%97%AC%ED%96%89%ED%95%98%EB%8A%94+%EA%B2%BD%ED%97%98%EC%9D%84+%EC%A3%BC%EB%8A%94;%EA%B2%8C%EC%9E%84%EC%9D%84+%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
 </a>
+
 
 <br/>
 
