@@ -25,7 +25,6 @@
 ---
 
 ## 🛠 Tech Stack
-
 ### Language
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -40,7 +39,6 @@
 
 <br/>
 <br/>
-
 ### Graphics / Engine
 
 <img src="https://img.shields.io/badge/DirectX%2011-107C10?style=for-the-badge"/>
@@ -49,7 +47,6 @@
 
 <br/>
 <br/>
-
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
