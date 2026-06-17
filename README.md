@@ -2,7 +2,6 @@
 
 # SeungMin's GitHub
 
----
 
 ## 👨‍💻 Contact me 👨‍💻
 
