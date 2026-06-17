@@ -55,11 +55,6 @@
 <img src="https://img.shields.io/badge/Network-00A98F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Operating%20System-6C5CE7?style=flat-square"/>
 
-<br/>
-<br/>
-
-<img src="https://ghchart.rshah.org/219138/seungmin383" alt="GitHub Contribution Chart"/>
-
 ---
 
 ## 📊 GitHub Stats
