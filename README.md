@@ -12,7 +12,7 @@
 
 <h3>📧 bsm030830@gmail.com</h3>
 
-<a href="[[https://app.notion.com/p/2dc9bd18e3f447b78c525386b1d68c9b?v=b34aa33465c9404bbfdde3f2376ae825&source=copy_link](https://app.notion.com/p/About-Me-bef68bf5ccfb831b896d81930db21c2b?source=copy_link)](https://app.notion.com/p/About-Me-bef68bf5ccfb831b896d81930db21c2b?source=copy_link)" target="_blank">
+<a href="https://app.notion.com/p/About-Me-bef68bf5ccfb831b896d81930db21c2b?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 <a href="mailto:bsm030830@gmail.com">
