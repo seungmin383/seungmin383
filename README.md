@@ -25,7 +25,7 @@
 
 ## 기억의 골동품점
 
-[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true)](https://github.com/seungmin383/Client_The-Curio-Shop)
+[![기억의 골동품점](https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=Client_The-Curio-Shop&theme=tokyonight&hide_border=true)](https://github.com/seungmin383/Client_The-Curio-Shop)
 
 ---
 
