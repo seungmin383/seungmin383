@@ -25,48 +25,7 @@
 
 ## 기억의 골동품점
 
-> **Unity 기반 1인 개발 모바일 덱빌딩 카드 게임**
-
-<div align="center">
-
-<!-- 대표 이미지가 있다면 아래 주석을 해제하고 URL을 넣으세요. -->
-
-<!-- <img src="PROJECT_IMAGE_URL" width="800"/> -->
-
-</div>
-
-### Project Overview
-
-|                 |                            |
-| --------------- | -------------------------- |
-| **Engine**      | Unity                      |
-| **Language**    | C#                         |
-| **Platform**    | Android                    |
-| **Role**        | 기획 · 클라이언트 · 시스템 · UI · 출시 |
-| **Development** | Solo Development           |
-
-### Key Features
-
-* 덱빌딩 기반 카드 전투 시스템
-* 카드 / 덱 / 전투 데이터 관리 시스템
-* 지역 및 직업별 전투 메커니즘
-* 저장 / 불러오기 및 게임 데이터 관리
-* Google Play Games 및 모바일 출시 환경 구축
-* AI Agent를 활용한 프로젝트 구조 분석 및 개발 자동화
-
-### Technical Focus
-
-* 전투 시스템 모듈화 및 유지보수 가능한 구조 설계
-* Object Pooling을 활용한 반복 객체 생성 비용 감소
-* UI / 데이터 / 게임 로직 분리
-* 비동기 로딩 및 모바일 환경 성능 최적화
-* Unity Profiler 기반 성능 분석 및 개선
-
-<!-- GitHub Repository가 준비되면 추가 -->
-
-<!-- [Repository](YOUR_REPOSITORY_URL) -->
-
-<br/>
+[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true)](https://github.com/seungmin383/REPOSITORY_NAME)
 
 ---
 
