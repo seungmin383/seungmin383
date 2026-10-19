@@ -22,11 +22,12 @@
 
 ---
 
-# 🎮 Featured Projects
+<h2 align="center">🎮 Featured Projects</h2>
 
-<table>
+<div align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>기억의 골동품점</h3>
       <p>Unity 기반 모바일 게임 프로젝트</p>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
@@ -36,7 +37,7 @@
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>Doom2</h3>
       <p>DirectX 기반 FPS 팀 프로젝트</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -48,7 +49,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>Tomodachi Life</h3>
       <p>DirectX 기반 개인 게임 모작 프로젝트</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -58,7 +59,7 @@
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>FinalProject</h3>
       <p>DirectX 11 기반 3D 게임 팀 프로젝트</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -70,6 +71,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
