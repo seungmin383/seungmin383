@@ -78,64 +78,65 @@
 
 ---
 
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <h3 align="center">Languages</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-2563EB?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div>
 
 <h3 align="center">Game Engines</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-Learning-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-2563EB?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-Learning-334155?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
 <h3 align="center">Graphics & Rendering</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/WinAPI-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DirectX_9-107C10?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DirectX_11-107C10?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WinAPI-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DirectX_9-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DirectX_11-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HLSL-334155?style=for-the-badge"/>
 </div>
 
 <h3 align="center">UI & Data</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ImGui-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ImGui-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-334155?style=for-the-badge&logo=json&logoColor=white"/>
 </div>
 
 <h3 align="center">Backend & Services</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Play_Games-01875F?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-334155?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play_Games-334155?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </div>
 
 <h3 align="center">Development Tools</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-334155?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-334155?style=for-the-badge&logo=rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-334155?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
 
 <h3 align="center">AI & Automation</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-334155?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-334155?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_CLI-334155?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-334155?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge"/>
 </div>
 
 <br/>
