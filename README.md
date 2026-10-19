@@ -93,7 +93,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-2563EB?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-Learning-334155?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
 <h3 align="center">Graphics & Rendering</h3>
