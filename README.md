@@ -21,13 +21,27 @@
 
 ---
 
-# 🎮 Featured Project
-
-## 기억의 골동품점
-
-[![기억의 골동품점](https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=Client_The-Curio-Shop&theme=tokyonight&hide_border=true)](https://github.com/seungmin383/Client_The-Curio-Shop)
 
 ---
+
+# 🎮 Featured Projects
+
+<a href="https://github.com/seungmin383/Client_The-Curio-Shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=Client_The-Curio-Shop&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/seungmin383/SR_TeamPortfolio_Doom2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=SR_TeamPortfolio_Doom2&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+
+<a href="https://github.com/seungmin383/SR_PersonalPortfolio_TomodachiLife">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=SR_PersonalPortfolio_TomodachiLife&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/Byungcoco/FinalProject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byungcoco&repo=FinalProject&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+
+---
+
 
 # 🛠 Tech Stack
 
