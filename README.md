@@ -145,19 +145,39 @@
 ---
 
 
-# 📚 Currently Studying
 
-<p align="left">
+---
+
+<h2 align="center">📚 Currently Studying</h2>
+
+<h3 align="center">Unreal Engine & Multiplayer</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal_C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gameplay_Framework-313244?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Replication_&_RPC-5C2D91?style=for-the-badge"/>
+</div>
+
+<h3 align="center">Networking & Server</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Winsock-107C10?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game_Server-1E90FF?style=for-the-badge"/>
+</div>
+
+<h3 align="center">Computer Science</h3>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Algorithm-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Structure-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20System-6C5CE7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network-00A98F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Game%20Server-1E90FF?style=for-the-badge"/>
-</p>
+  <img src="https://img.shields.io/badge/Data_Structures-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-6C5CE7?style=for-the-badge"/>
+</div>
 
 <br/>
 
 ---
+
 
 # 📫 Contact
 
