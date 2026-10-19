@@ -1,6 +1,7 @@
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0E1128,50:1E90FF,100:5C2D91\&height=220\&section=header\&text=SeungMin's%20GitHub\&fontSize=46\&fontColor=ffffff\&fontAlignY=38\&desc=Game%20Client%20Developer\&descSize=18\&descAlignY=58\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0E1128,50:1E90FF,100:5C2D91&height=220&section=header&text=SeungMin's%20GitHub&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Game%20Client%20Developer&descSize=18&descAlignY=58&animation=fadeIn)
 
 ### Game Client Developer
 
@@ -21,26 +22,58 @@
 
 ---
 
-
----
-
 # 🎮 Featured Projects
 
-<a href="https://github.com/seungmin383/Client_The-Curio-Shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=Client_The-Curio-Shop&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-<a href="https://github.com/seungmin383/SR_TeamPortfolio_Doom2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=SR_TeamPortfolio_Doom2&theme=tokyonight&hide_border=true" width="49%" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>기억의 골동품점</h3>
+      <p>Unity 기반 모바일 게임 프로젝트</p>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/seungmin383/Client_The-Curio-Shop">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Doom2</h3>
+      <p>DirectX 기반 FPS 팀 프로젝트</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DirectX-107C10?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/seungmin383/SR_TeamPortfolio_Doom2">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tomodachi Life</h3>
+      <p>DirectX 기반 개인 게임 모작 프로젝트</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DirectX-107C10?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/seungmin383/SR_PersonalPortfolio_TomodachiLife">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>FinalProject</h3>
+      <p>DirectX 11 기반 3D 게임 팀 프로젝트</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DirectX_11-107C10?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/Byungcoco/FinalProject">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/seungmin383/SR_PersonalPortfolio_TomodachiLife">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seungmin383&repo=SR_PersonalPortfolio_TomodachiLife&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-<a href="https://github.com/Byungcoco/FinalProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byungcoco&repo=FinalProject&theme=tokyonight&hide_border=true" width="49%" />
-</a>
+<br/>
+
 ---
-
 
 # 🛠 Tech Stack
 
@@ -96,7 +129,6 @@
 
 ---
 
-
 # 📫 Contact
 
 <div align="center">
@@ -115,4 +147,4 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:5C2D91,50:1E90FF,100:0E1128\&height=100\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,50:1E90FF,100:0E1128&height=100&section=footer)
