@@ -179,22 +179,4 @@
 ---
 
 
-# 📫 Contact
-
-<div align="center">
-
-**[bsm030830@gmail.com](mailto:bsm030830@gmail.com)**
-
-<a href="https://app.notion.com/p/About-Me-bef68bf5ccfb831b896d81930db21c2b?source=copy_link">
-  <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
-
-<a href="mailto:bsm030830@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,50:1E90FF,100:0E1128&height=100&section=footer)
