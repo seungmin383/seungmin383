@@ -3,7 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0E1128,50:1E90FF,100:5C2D91&height=220&section=header&text=SeungMin's%20GitHub&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Game%20Client%20Developer&descSize=18&descAlignY=58&animation=fadeIn)
 
-### Game Client Developer
 
 **유저에게 살아있는 세계를 여행하는 경험을 주는 게임을 개발하고 싶습니다.**
 
