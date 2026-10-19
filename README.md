@@ -25,6 +25,7 @@
 <h2 align="center">🎮 Featured Projects</h2>
 
 <div align="center">
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -71,12 +72,10 @@
     </td>
   </tr>
 </table>
+
 </div>
 
 <br/>
-
----
-
 
 ---
 
@@ -144,10 +143,6 @@
 
 ---
 
-
-
----
-
 <h2 align="center">📚 Currently Studying</h2>
 
 <h3 align="center">Unreal Engine & Multiplayer</h3>
@@ -155,7 +150,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal_C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gameplay_Framework-313244?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Replication_&_RPC-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Replication_%26_RPC-5C2D91?style=for-the-badge"/>
 </div>
 
 <h3 align="center">Networking & Server</h3>
@@ -178,5 +173,8 @@
 
 ---
 
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,50:1E90FF,100:0E1128&height=100&section=footer)
+
+</div>
